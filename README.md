@@ -1,0 +1,2 @@
+# pythonforsmart
+Python для умненьких
