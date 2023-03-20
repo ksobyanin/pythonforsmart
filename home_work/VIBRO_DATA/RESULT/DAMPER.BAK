@@ -1,0 +1,38 @@
+
+    Sine Swap Test Result:
+     Object:
+DAMPER
+  Task File:
+C:\VIBRO\SINE_T\TASK\DX_3G.ST
+  Task Name:
+DX_2G
+  Swap Mode:
+ //////
+         1 - run number
+ Cycle Time:
+    100.00  -  [sec]
+ Total Time:
+    100.00  -  [sec]
+Max Task Level:    3.00g
+       Stend: TV56263
+   Test Mode: 2.5kHz/1Hz
+Sensors used: .1.2.3.4
+  Control by: 3. Mean-control Mode
+  Test Level:  100% [  3.00g]
+  Test Begin:  01-01-2002 tue  05:12:56
+    Test End:  01-01-2002 tue  05:14:36
+   Work time:       100 sec [00h:01m:40s]
+
+
+  Total Time:
+       100 sec [00h:01m:40s]
+         1 - cycle number
+  Last f Hz:
+Last Ampl g:
+         0 - task profile step
+
+       248 - exit code
+Test Complete
+     made by: VI4_ST47.EXE
+
+Result Complete
